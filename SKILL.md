@@ -1,5 +1,11 @@
 ---
 name: kaixueji-skill
+display_name: 开学季活动策划
+display_name_en: Back-to-School Event Planning
+description_zh: 面向学校和老师的一站式开学季内容库，覆盖全学段，输出活动方案、文案标语、主持词、演讲稿、开学第一课。
+description_en: One-stop back-to-school content for schools and teachers, covering plans, slogans, MC scripts, speeches, and first-lesson content.
+version: 1.0.0
+author: guanjie2024
 description: |
   开学季活动策划 · 一站式内容生成。面向学校、老师、班主任、校方，覆盖幼儿园到大学全学段。
   五大输出模式：①活动方案（开学典礼/迎新/班会/家长会）②主题·标语·文案 ③主持词
